@@ -6,8 +6,8 @@ triad_openvr is an open source software built on top of the openvr library. It p
 In my project, I used triad_openvr library to extract VIVE controller information (Code is present in 'Client_VR' directory)
 
 # Windows Computer
-0. Check for the computer hardware requrirements [here] (http://store.steampowered.com/app/323910/SteamVR_Performance_Test/)
-1. Install [Steam VR](https://support.steampowered.com/kb_article.php?ref=2001-UXCM-4439) and [Epics Launcher - Unreal Engine] (https://www.epicgames.com/unrealtournament/download). 
+0. Check for the computer hardware requrirements [here](http://store.steampowered.com/app/323910/SteamVR_Performance_Test/)
+1. Install [Steam VR](https://support.steampowered.com/kb_article.php?ref=2001-UXCM-4439) and [Epics Launcher - Unreal Engine](https://www.epicgames.com/unrealtournament/download). 
 2. Install the headset and controllers properly. 
 3. Download the 'Client_VR' folder present in this repository. 
 4. Run the 'controller_test.py'. If it runs without errors, then VIVE hardware is successfully installed. 
@@ -16,7 +16,7 @@ In my project, I used triad_openvr library to extract VIVE controller informatio
 
 # Ubuntu Computer
 0. Ubuntu 14.04 is recommended. 
-1. Install [ROS Indigo] (http://wiki.ros.org/indigo/Installation/Ubuntu), [Baxter Workstation Setup] (http://sdk.rethinkrobotics.com/wiki/Workstation_Setup)
+1. Install [ROS Indigo](http://wiki.ros.org/indigo/Installation/Ubuntu), [Baxter Workstation Setup](http://sdk.rethinkrobotics.com/wiki/Workstation_Setup)
 2. Download the 'Server_Baxter' folder present in this repository. Copy this folder into catkin_ws/src/.
 3. Open 'main.py', and change the 'TCP_IP' variable to the IP address of Ubuntu computer. 
 4. Run 'main.py'
