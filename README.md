@@ -7,7 +7,7 @@ In my project, I used triad_openvr library to extract VIVE controller informatio
 
 # Windows Computer
 0. Check for the computer hardware requrirements [here] (http://store.steampowered.com/app/323910/SteamVR_Performance_Test/)
-1. Install [Steam VR] (https://support.steampowered.com/kb_article.php?ref=2001-UXCM-4439) and [Epics Launcher - Unreal Engine] (https://www.epicgames.com/unrealtournament/download). 
+1. Install [Steam VR](https://support.steampowered.com/kb_article.php?ref=2001-UXCM-4439) and [Epics Launcher - Unreal Engine] (https://www.epicgames.com/unrealtournament/download). 
 2. Install the headset and controllers properly. 
 3. Download the 'Client_VR' folder present in this repository. 
 4. Run the 'controller_test.py'. If it runs without errors, then VIVE hardware is successfully installed. 
