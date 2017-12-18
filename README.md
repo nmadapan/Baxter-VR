@@ -8,3 +8,4 @@ In my project, I used triad_openvr library to extract VIVE controller informatio
 
 # Video
 https://youtu.be/GOF_M8wtWZE
+https://youtu.be/dS_DJDMJGNU
